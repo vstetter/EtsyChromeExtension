@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 25em;
+}
+
+header img {
+  display: block;
+  margin: 0 auto;
+
+}
+h2, p {
+  font-family: Optima, sans-serif;
+}
+
+h2 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.listing {
+  display: block;
+  width: 80%;
+  margin: 1em auto;
+  padding-top: 1.5em;
+  background-color: #e2e2e2;
+  border-radius: 15px;
+
+}
+
+.listing img {
+  display: block;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.listing p {
+  display: block;
+  width: 70%;
+  margin: 0 auto;
+  font-size: 1em;
+  line-height: 1.2em;
+  text-align: center;
+
+}
+
+.listing a {
+  text-decoration: none;
+  color: black;
+}
+
+.listing a:hover {
+  background-color: white;
+  color: crimson;
+}
